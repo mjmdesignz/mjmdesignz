@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Mitch
 
 ### About
 Front-End Experience Designer working on enterprise and healthcare platforms.
