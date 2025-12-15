@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### About
+Front-End Experience Designer working on enterprise and healthcare platforms.
+
+Most of my day-to-day work lives in private Pantheon-hosted repositories, where client code remains confidential.
+
+
 <!--
 **mjmdesignz/mjmdesignz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
