@@ -1,9 +1,8 @@
 ## Hi there 👋 I'm Mitch
 
 ### About
-Front-End Experience Designer working on enterprise and healthcare platforms.
-
-Most of my day-to-day work lives in private Pantheon and Azure DevOps repositories, where client code remains confidential.
+Front-End Experience Designer specializing in enterprise, healthcare, and UX-driven web platforms.  
+Focused on custom WordPress development using Advanced Custom Fields (ACF), component-driven templates, Bootstrap layouts, and scalable SCSS.
 
 
 <!--
