@@ -3,7 +3,7 @@
 ### About
 Front-End Experience Designer working on enterprise and healthcare platforms.
 
-Most of my day-to-day work lives in private Pantheon-hosted repositories, where client code remains confidential.
+Most of my day-to-day work lives in private Pantheon and Azure DevOps repositories, where client code remains confidential.
 
 
 <!--
